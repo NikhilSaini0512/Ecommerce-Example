@@ -1,4 +1,4 @@
-Here's a `README.md` file for your **E-commerce Product Page Clone** project using **HTML, CSS, and React**. It outlines the features, tech stack, and setup instructions for running the project locally.
+
 
 ---
 
