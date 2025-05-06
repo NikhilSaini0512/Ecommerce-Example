@@ -57,5 +57,8 @@ Feel free to fork the repo and submit a pull request. Suggestions and improvemen
 [MIT](LICENSE)
 
 ---
+<img width="1417" alt="Screenshot 2025-05-06 at 11 48 37 PM" src="https://github.com/user-attachments/assets/44fb8fd6-3444-4153-94e5-15fe8f6ce65e" />
+
+<img width="1386" alt="Screenshot 2025-05-06 at 11 48 55 PM" src="https://github.com/user-attachments/assets/3b898cf9-71e9-4481-a456-bdce53b78d40" />
 
 
