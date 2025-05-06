@@ -2,7 +2,7 @@ Here's a `README.md` file for your **E-commerce Product Page Clone** project usi
 
 ---
 
-```markdown
+
 # 🛍️ E-commerce Product Page Clone
 
 This project is a clean and responsive e-commerce product page clone built with **React**, **HTML**, and **CSS**. Inspired by modern shopping platforms like **Amazon**, **Shopify**, and **ASOS**, it features product browsing, a shopping cart, and real-time search.
